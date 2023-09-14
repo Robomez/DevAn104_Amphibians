@@ -1,6 +1,8 @@
 Amphibians - Starter Code
 ==================================
 
+<img src = "Screenshot_20230915_001817.jpg" width = 40%>
+
 Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
 with Unit 4 of Android Basics in Kotlin
 
